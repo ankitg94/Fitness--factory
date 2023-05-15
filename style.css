@@ -735,6 +735,7 @@ background-color: black;
 display: flex;
 flex-direction: column-reverse;
 height: 83vh;
+	margin-top: -4%;
 }
 .f_p1{
 	width: 95vw;
