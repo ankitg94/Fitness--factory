@@ -531,7 +531,7 @@ background-color: black;
 /*responsive part*/
 @media only screen and (max-width: 426px) {
 	.wrapper{
-		height: 775vh;
+		height: 730vh;
 		width: 95vw;
 		//border:2px solid red ;
 	}
@@ -736,7 +736,7 @@ background-color: black;
 display: flex;
 flex-direction: column-reverse;
 height: 83vh;
-	margin-top: -14%;
+	margin-top: -18%;
 }
 .f_p1{
 	width: 95vw;
@@ -763,6 +763,11 @@ height: 83vh;
 	width: 95vw;
 	height: 25vh;
 }
+.icon-wrapper a i {
+     font-size: 50px;
+     color: black;
+  }
+
 
 
 
