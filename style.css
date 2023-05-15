@@ -735,7 +735,7 @@ background-color: black;
 display: flex;
 flex-direction: column-reverse;
 height: 83vh;
-	margin-top: -4%;
+	margin-top: -14%;
 }
 .f_p1{
 	width: 95vw;
@@ -752,7 +752,7 @@ height: 83vh;
 }
 .f_p2{
 	width: 95vw;
-	height: 40vh;
+	height: 30vh;
 }
 .tray li a{
 	background-color: white;
