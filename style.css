@@ -531,7 +531,7 @@ background-color: black;
 /*responsive part*/
 @media only screen and (max-width: 426px) {
 	.wrapper{
-		height: 790vh;
+		height: 775vh;
 		width: 95vw;
 		//border:2px solid red ;
 	}
@@ -564,7 +564,7 @@ background-color: black;
 	//letter-spacing: 1px;
 	font-size: 20px;
 	background-color: black;
-	color: black;
+	color: white;
 	padding: 1%;
 
 }
@@ -700,7 +700,7 @@ background-color: black;
 .cards{
 	display: flex;
 	flex-direction: column;
-	height:240vh;
+	height:210vh;
 	margin-top:5% ;
 }
 .card1{
@@ -755,8 +755,9 @@ height: 83vh;
 	width: 95vw;
 	height: 30vh;
 }
-.tray li a{
-	background-color: white;
+.f_p2 .tray li a{
+	background-color:lightyellow;
+	opacity: 0.5;
 }
 .f_p3{
 	width: 95vw;
