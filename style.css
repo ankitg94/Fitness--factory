@@ -695,6 +695,7 @@ background-color: black;
 .form-group .btn{
 	margin-top: 1%;
 	height: 5vh;
+	margin-left: 2%;
 }
 .cards{
 	display: flex;
