@@ -615,7 +615,7 @@ background-color: black;
 }
 .main_section{
 	width: 60vw;
-	height: 72vh;
+	height: 87vh;
 	margin-left:1% ;
 }
 #btn{
@@ -640,7 +640,7 @@ background-color: black;
 .spcr{
 	//background-color: black;
 	border-radius:2%;
-	width: 80vw;
+	width: 60vw;
 	margin-left: 6%;
 	border: 2px solid floralwhite;
 }
